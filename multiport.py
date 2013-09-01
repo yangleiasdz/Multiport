@@ -171,6 +171,9 @@ def banner():
 
 Check the status of ports with all scans at once
 by Interference Security
+
+Contact : int3rf3r3nc3 [at] gmail [dot] com
+Github  : https://github.com/interference-security/Multiport
    	"""
     print bannerTxt
 
